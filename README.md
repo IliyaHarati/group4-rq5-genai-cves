@@ -70,10 +70,6 @@ Read **reports/FINDINGS.md** for the generated answer and **docs/METHODS.md** fo
 | docs/PRESENTATION_FA.md | Persian explanation, speaking plan and Q&A |
 | docs/DATA_DICTIONARY.md | Field definitions and missing-value policy |
 
-## Submitting on GitHub
-
-Upload this folder's contents to your repository, including data/evidence.tar.xz (needed for offline reproduction). The expanded data/.evidence_cache folder and any legacy data/raw folder are ignored automatically; do not copy them into the uploaded project. Do not upload the virtual environment. Keep README.md at the repository root. Check that the notebook and chart render on GitHub, then submit the repository link to the instructor. Nothing has been published automatically.
-
 ## Sources and attribution
 
 - [NVD API 2.0](https://nvd.nist.gov/developers/vulnerabilities)
@@ -82,4 +78,3 @@ Upload this folder's contents to your repository, including data/evidence.tar.xz
 - [FIRST CVSS 3.1 specification](https://www.first.org/cvss/v3.1/specification-document)
 - Individual upstream, coordinated-disclosure and original-researcher advisories linked in the CSV.
 
-This project used AI assistance for implementation, collection and analysis. The group should review the methods and findings before presenting. Group names identify the team; no unverified individual contribution claims are made. Source snapshots retain their original authors' rights; they are included as evidence with attribution, not relicensed.
