@@ -1,0 +1,67 @@
+[
+  {
+    "name": "LangChain",
+    "repo": "langchain-ai/langchain",
+    "aliases": [
+      "langchain"
+    ],
+    "group": "Agent framework",
+    "vendor": "LangChain"
+  },
+  {
+    "name": "Ollama",
+    "repo": "ollama/ollama",
+    "aliases": [
+      "ollama"
+    ],
+    "group": "LLM serving",
+    "vendor": "Ollama"
+  },
+  {
+    "name": "vLLM",
+    "repo": "vllm-project/vllm",
+    "aliases": [
+      "vllm"
+    ],
+    "group": "LLM serving",
+    "vendor": "vLLM project"
+  },
+  {
+    "name": "Open WebUI",
+    "repo": "open-webui/open-webui",
+    "aliases": [
+      "open webui",
+      "open-webui"
+    ],
+    "group": "LLM application",
+    "vendor": "Open WebUI"
+  },
+  {
+    "name": "Flowise",
+    "repo": "FlowiseAI/Flowise",
+    "aliases": [
+      "flowise"
+    ],
+    "group": "Agent/workflow platform",
+    "vendor": "FlowiseAI"
+  },
+  {
+    "name": "Langflow",
+    "repo": "langflow-ai/langflow",
+    "aliases": [
+      "langflow"
+    ],
+    "group": "Agent/workflow platform",
+    "vendor": "Langflow / IBM"
+  },
+  {
+    "name": "AutoGPT",
+    "repo": "Significant-Gravitas/AutoGPT",
+    "aliases": [
+      "autogpt",
+      "auto-gpt"
+    ],
+    "group": "Agent platform",
+    "vendor": "Significant Gravitas"
+  }
+]

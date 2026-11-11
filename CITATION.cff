@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite this student research project when using the analysis."
+title: "RQ5: Reported CVEs in Selected Generative AI Products"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-11
+authors:
+  - name: "Group 4: ایلیا هراتی، معین رحیمی، فاطمه نظری، ریحانه شیری، پوریا اسلامی"
+abstract: "A descriptive, evidence-linked NVD study of reported CVEs in seven selected GenAI products. Published 2023-01-01 through 2026-10-31; evidence snapshot 2026-11-11."

@@ -1,0 +1,158 @@
+{
+  "start": "2023-01-01",
+  "end_exclusive": "2026-11-01",
+  "snapshot_date": "2026-11-11",
+  "cvss_version": "3.1",
+  "products": [
+    {
+      "name": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "aliases": [
+        "langchain"
+      ],
+      "group": "Agent framework",
+      "vendor": "LangChain",
+      "scope": "Official Python and JavaScript core libraries and packages in the official repositories; excludes LangGraph, LangSmith, third-party forks and integrations in other repositories."
+    },
+    {
+      "name": "Ollama",
+      "repo": "ollama/ollama",
+      "aliases": [
+        "ollama"
+      ],
+      "group": "LLM serving",
+      "vendor": "Ollama",
+      "scope": "Official upstream project only; excludes third-party integrations, forks and separately branded distributions."
+    },
+    {
+      "name": "vLLM",
+      "repo": "vllm-project/vllm",
+      "aliases": [
+        "vllm"
+      ],
+      "group": "LLM serving",
+      "vendor": "vLLM project",
+      "scope": "Official upstream project only; excludes third-party integrations, forks and separately branded distributions."
+    },
+    {
+      "name": "Open WebUI",
+      "repo": "open-webui/open-webui",
+      "aliases": [
+        "open webui",
+        "open-webui"
+      ],
+      "group": "LLM application",
+      "vendor": "Open WebUI",
+      "scope": "Official upstream project only; excludes third-party integrations, forks and separately branded distributions."
+    },
+    {
+      "name": "Flowise",
+      "repo": "FlowiseAI/Flowise",
+      "aliases": [
+        "flowise"
+      ],
+      "group": "Agent/workflow platform",
+      "vendor": "FlowiseAI",
+      "scope": "Flowise server, components and chat embed in FlowiseAI/Flowise; excludes third-party forks."
+    },
+    {
+      "name": "Langflow",
+      "repo": "langflow-ai/langflow",
+      "aliases": [
+        "langflow"
+      ],
+      "group": "Agent/workflow platform",
+      "vendor": "Langflow / IBM",
+      "scope": "Open-source Langflow server and packages in langflow-ai/langflow; excludes Langflow Desktop."
+    },
+    {
+      "name": "AutoGPT",
+      "repo": "Significant-Gravitas/AutoGPT",
+      "aliases": [
+        "autogpt",
+        "auto-gpt"
+      ],
+      "group": "Agent platform",
+      "vendor": "Significant Gravitas",
+      "scope": "Official upstream project only; excludes third-party integrations, forks and separately branded distributions."
+    }
+  ],
+  "identifiers": {
+    "LangChain": [
+      "langchain",
+      "langchain_community",
+      "langchain-community",
+      "langchain-core",
+      "langchain-experimental",
+      "langchainjs",
+      "langchain-text-splitters",
+      "langchain-openai",
+      "langchain-anthropic",
+      "langchain-mongodb",
+      "@langchain/core",
+      "@langchain/community",
+      "@langchain/openai",
+      "@langchain/anthropic",
+      "@langchain/redis",
+      "@langchain/mongodb",
+      "redis",
+      "mongodb"
+    ],
+    "Ollama": [
+      "ollama"
+    ],
+    "vLLM": [
+      "vllm"
+    ],
+    "Open WebUI": [
+      "open-webui",
+      "open webui"
+    ],
+    "Flowise": [
+      "flowise",
+      "flowise-components",
+      "Flowise Components",
+      "FlowiseChatEmbed",
+      "flowise-embed"
+    ],
+    "Langflow": [
+      "langflow",
+      "langflow-base",
+      "Langflow OSS",
+      "lfx"
+    ],
+    "AutoGPT": [
+      "autogpt",
+      "auto-gpt"
+    ]
+  },
+  "repos": {
+    "LangChain": [
+      "langchain-ai/langchain",
+      "langchain-ai/langchainjs",
+      "hwchase17/langchain"
+    ],
+    "Ollama": [
+      "ollama/ollama",
+      "jmorganca/ollama"
+    ],
+    "vLLM": [
+      "vllm-project/vllm"
+    ],
+    "Open WebUI": [
+      "open-webui/open-webui",
+      "ollama-webui/ollama-webui"
+    ],
+    "Flowise": [
+      "flowiseai/flowise"
+    ],
+    "Langflow": [
+      "langflow-ai/langflow",
+      "logspace-ai/langflow"
+    ],
+    "AutoGPT": [
+      "significant-gravitas/autogpt",
+      "significant-gravitas/auto-gpt"
+    ]
+  }
+}

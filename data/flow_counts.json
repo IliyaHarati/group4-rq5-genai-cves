@@ -1,0 +1,9 @@
+{
+  "unique_discovered_cves": 881,
+  "candidate_pairs": 880,
+  "confirmed_pairs": 791,
+  "unique_confirmed_cves": 791,
+  "unrelated_pairs": 70,
+  "rejected_pairs": 0,
+  "unresolved_pairs": 19
+}
